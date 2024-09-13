@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791170873077",
+    "project_id": "incrementapps",
+    "storage_bucket": "incrementapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791170873077:android:c306b6d6761a3edfacb7bc",
+        "android_client_info": {
+          "package_name": "com.example.user_increment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhBM-jfHUn1Fm1v1tUWUV2mZZIlZ_eT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
